@@ -1,0 +1,33 @@
+body {
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    color:black;
+}
+
+.container {
+    text-align: center;
+    padding: 2rem;
+    border-radius: 10px;
+    background-color: #fff;
+    flex:0 0 80%;
+}
+
+#quoteBtn {
+    border:none;
+    color: white;
+    background-color:lightblue;
+    padding: 0.25rem 0.5rem;
+    font-size:1.3rem;
+    border-radius:7px;
+    cursor: pointer;
+    outline: none;
+}
+#quoteBtn:hover {
+   background-color:teal;
+}
+blockquote {
+    background-color: #fff;
+}
