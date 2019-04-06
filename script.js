@@ -1,32 +1,32 @@
-const quotes [
+const quotes = [
     {
-        name: 'author 1',
-            quote: 'text 1'
+    name: 'Coco Chanel',
+    quote: 'Success is most often achieved by those who don’t know that failure is inevitable.'
     },
 
     {
-        name: 'john kennedy',
-            quote: 'those who....'
+    name: 'Kayne West',
+    quote: 'I refuse to accept other people’s ideas of happiness for me. As if there’s a one size fits all standard for happiness.',
     },
 
     {
-        name: 'author 3',
-            quote: 'text 3'
+    name: ' Tony Robbins',
+    quote: 'If you do what you’ve always done, you’ll get what you’ve always gotten.'
     },
 
     {
-        name: 'author 4',
-            quote: 'text 4'
+    name: ' Aristotle',
+    quote: 'There is only one way to avoid criticism: do nothing, say nothing, and be nothing.'
     },
 
     {
-        name: 'author 5',
-            quote: 'text 5'
+    name: ' Lao Tzu',
+    quote: 'When I let go of what I am, I become what I might be.'
     },
     
     {
-        name: 'author 6',
-            quote: 'text 6'
+    name: 'Albert Einstein',
+    quote: 'I am thankful for all of those who said NO to me. It’s because of them I’m doing it myself.'
     }
 
 ]
